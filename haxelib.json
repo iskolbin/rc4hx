@@ -1,0 +1,14 @@
+{
+	"name": "rc4",
+	"url" : "https://github.com/iskolbin/rc4hx",
+	"license": "MIT",
+	"tags": ["rc4","crypto","stream"],
+	"description": "Alleged RC4 implementation for haXe language.",
+	"version": "1.0.0",
+	"releasenote": "Initial release, everything is working correctly.",
+	"contributors": ["iskolbin"],
+	"dependencies": {}
+}
+
+
+
